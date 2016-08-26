@@ -1,5 +1,5 @@
 # golang Apple Script lib
 
-Max OS only
+Mac OS only
 
 run simple Apple Script Command
